@@ -51,3 +51,6 @@ npm run dev
 https://www.youtube.com/watch?v=moQvrQdruL8&list=PLcRnXYmrCwkRiIBDs12yV1Z0CIvUHlCzM&index=5
 
 Devo far caricare questi pacchetti appena caricati in js/bootstrap.js
+
+## Possibili migliorie
+Ho solo index, create e show. Volendo potrei aggiungere altre pagine/metodi

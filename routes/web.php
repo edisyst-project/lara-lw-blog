@@ -17,6 +17,14 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/blog', function () {
+    return view('welcome');
+})->name('blog');
+
+Route::get('/blogs', [\App\Http\Controllers\BlogController::class, 'index'])->name('blogs.index');
+Route::get('/blogs/{blog}', [\App\Http\Controllers\BlogController::class, 'show'])->name('blogs.show');
+
+
 Route::middleware([
     'auth:sanctum',
     config('jetstream.auth_session'),
