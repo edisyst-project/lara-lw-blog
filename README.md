@@ -53,4 +53,4 @@ https://www.youtube.com/watch?v=moQvrQdruL8&list=PLcRnXYmrCwkRiIBDs12yV1Z0CIvUHl
 Devo far caricare questi pacchetti appena caricati in js/bootstrap.js
 
 ## Possibili migliorie
-Ho solo index, create e show. Volendo potrei aggiungere altre pagine/metodi
+Ho solo index, create e show. Volendo potrei aggiungere altre pagine/metodi. Questo lo potrei taggare
